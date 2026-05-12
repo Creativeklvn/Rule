@@ -1,5 +1,0 @@
-config:
-  default: false
-# MD003
-  heading-style:
-    style: "atx"
